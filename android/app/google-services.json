@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76412684959",
+    "project_id": "camouflage-3722e",
+    "storage_bucket": "camouflage-3722e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76412684959:android:7200c699823d29681530aa",
+        "android_client_info": {
+          "package_name": "com.anhlv.camouflage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjz17z6arM_if3hgnH2Noi3zQL2Hvjh1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
